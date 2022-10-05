@@ -1,32 +1,7 @@
 {
-    "Localization":[
-        {
-            "language":"en",
-            "labels":{
-                "submit":"Submit",
-                "next":"Next",
-                "cancel":"Cancel",
-                "bye":"Bye Bye"
-            }
-        },
-        {
-            "language":"fr",
-            "labels":{
-                "submit":"Soumettre",
-                "next":"Suivant",
-                "cancel":"Annuler",
-                "bye":"Au Revoir"
-            }
-        },
-        {
-            "language":"ar",
-            "labels":{
-                "submit":"إرسال",
-                "next":"التالي",
-                "cancel":"إلغاء",
-                "bye":"وداعا"
-            }
-        }
-    ]
+  "Localization": {
+    "name": {
+      "string": ["Thor", "Loki"]
+    }
+  }
 }
-
