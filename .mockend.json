@@ -1,7 +1,5 @@
 {
-  "Localization": {
-    "name": {
-      "string": ["Thor", "Loki"]
-    }
+  "name": {
+    "string": ["Thor", "Loki"]
   }
 }
