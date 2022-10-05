@@ -7,12 +7,7 @@
                 "next":"Next",
                 "cancel":"Cancel",
                 "bye":"Bye Bye"
-            },
-            "allLanguages":[
-                "English",
-                "Français",
-                "عربى"
-            ]
+            }
         },
         {
             "language":"fr",
@@ -21,12 +16,7 @@
                 "next":"Suivant",
                 "cancel":"Annuler",
                 "bye":"Au Revoir"
-            },
-            "allLanguages":[
-                "English",
-                "Français",
-                "عربى"
-            ]
+            }
         },
         {
             "language":"ar",
@@ -35,12 +25,7 @@
                 "next":"التالي",
                 "cancel":"إلغاء",
                 "bye":"وداعا"
-            },
-            "allLanguages":[
-                "English",
-                "Français",
-                "عربى"
-            ]
+            }
         }
     ]
 }
